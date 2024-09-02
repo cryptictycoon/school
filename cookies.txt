@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ongataroyal.sc.ke	TRUE	/	FALSE	1999999999	PHPSESSID	e67b070707a6259ff516fcee2519fff5
+
